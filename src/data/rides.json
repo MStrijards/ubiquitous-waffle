@@ -1,0 +1,80 @@
+{
+    "Rides": [
+      {
+        "Name": "Gladiator",
+        "description": "",
+        "score": 17
+      },
+      {
+        "Name": "Drop Tower",
+        "description": "",
+        "score": 16
+      },
+      {
+        "Name": "Iets",
+        "description": "",
+        "score": 15
+      },
+      {
+        "Name": "Iets anders",
+        "description": "",
+        "score": 14
+      },
+      {
+        "Name": "Booster",
+        "description": "Een echte daredevil",
+        "score": 13
+      },
+      {
+        "Name": "Reactor",
+        "description": "",
+        "score": 12
+      },
+      {
+        "Name": "Toxic",
+        "description": "",
+        "score": 11
+      },
+      {
+        "Name": "Starflyer",
+        "description": "",
+        "score": 10
+      },
+      {
+        "Name": "Ferris Wheel",
+        "description": "",
+        "score": 9
+      },
+      {
+        "Name": "Sound Machine",
+        "description": "",
+        "score": 8
+      },
+      {
+        "Name": "Breakdance",
+        "description": "",
+        "score": 7
+      },
+      {
+        "Name": "Mad Mill",
+        "description": "",
+        "score": 6
+      },
+      {
+        "Name": "Carousel",
+        "description": "",
+        "score": 5
+      },
+      {
+        "Name": "Polyp",
+        "description": "",
+        "score": 4
+      },
+      {
+        "Name": "Kop van Jut",
+        "description": "",
+        "score": 3
+      }
+    ]
+}
+  

@@ -1,0 +1,84 @@
+{
+    "title": "Welke kermisattractie moet je écht eens proberen?",
+    "description": "Ben jij een echte daredevil, of sta schiet je liever prijs? Doe de test en kom erachter welke attractie je écht niet mag missen!",
+    "questions": [
+           {
+                "id": 0,
+                "question": "Ben je soms een beetje uit de hoogte?",
+                "options": [
+                    {
+                        "text": "Ik hou wel van een mooi uitzicht.",
+                        "value": 3
+                    },
+                    {
+                        "text": "Geef mij maar wat variatie.",
+                        "value": 2
+                    },
+                    {
+                        "text": "Ik sta het liefst met beide beentjes op de grond.",
+                        "value": 1
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "question": "Kan het niet hard genoeg gaan voor jou?",
+                "options": [
+                    {
+                        "text": "Was ik maar Max Verstappen, hoe sneller hoe beter!",
+                        "value": 3
+                    },
+                    {
+                        "text": "Wat snelheid kan geen kwaad, als het maar niet te hard gaat.",
+                        "value": 2
+                    },
+                    {
+                        "text": "Ik gil al in de draaimolen, zachtjes graag!",
+                        "value": 1
+                    }
+                ]
+             },
+             {
+                "id": 2,
+                "question": "Was vrûûger alles beter?",
+                "options": [
+                    {
+                        "text": "Ja, konden we maar weer terug naar die goeie oude tijd.",
+                        "value": 1
+                    },
+                    {
+                        "text": "Ik omarm de moderniteit!",
+                        "value": 2
+                    }
+                ]
+             },
+             {
+                "id": 3,
+                "question": "Heb je de leeftijd mee?",
+                "options": [
+                    {
+                        "text": "Ik mag overal in!",
+                        "value": 5
+                    },
+                    {
+                        "text": "Ik moet nog even groeien :(",
+                        "value": -5
+                    }
+                ]  
+             },
+             {
+                "id": 4,
+                "question": "Ben je graag actief bezig?",
+                "options": [
+                    {
+                        "text": "Handjes uit de mouwen is wat voor mij!",
+                        "value": 1
+                    },
+                    {
+                        "text": "Ik laat me liever rondslingeren door een machine.",
+                        "value": 5
+                    }
+                ] 
+             }
+    ]
+}

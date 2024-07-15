@@ -1,0 +1,10 @@
+For each question in questions.json return:
+title as <p>
+options as <input radio button>
+
+Check each answer for question against rides.json
+Closest ride match = result
+
+For each possible result a {{result}}.png (I'll make that in PS and store as an asset in assets)
+
+Twitter/Facebook share button at results page to share result with result image for assets
